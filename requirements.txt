@@ -1,0 +1,12 @@
+openai
+python-dotenv
+streamlit
+phidata
+reportlab
+pandas
+sqlalchemy 
+psycopg2 
+werkzeug
+bcrypt
+pdfkit
+duckduckgo-search
