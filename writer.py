@@ -4,8 +4,8 @@ from phi.tools.duckduckgo import DuckDuckGo
 from dotenv import load_dotenv
 import os
 load_dotenv()
-API_KEY = "ddc-rCd0jZ1ddZFNkv6qT3ahJkAfZgW43HjRBvu8Qzxuo29Vac4z0V"
-BASE_URL = "https://api.anthropic.com/v1"
+API_KEY = "your api"
+BASE_URL = "yourbaseurl"
 
 
 Claude=OpenAILike(
